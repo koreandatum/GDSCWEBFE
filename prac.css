@@ -1,0 +1,22 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+    color: #555;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #862633;
+    color: #d7c9b1;
+    text-align: center;
+    padding: 0.1em 0;
+    font-size: 96px;
+    line-height: 48px;
+}
+
+a {
+    text-decoration:none;
+    color: #d7c9b1;
+}
